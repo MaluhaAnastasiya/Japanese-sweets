@@ -95,6 +95,6 @@
     <img src="https://yandex.ru/images/search?family=yes&p=3&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%81%D0%B5%D0%BC%D0%B1%D1%8D%D0%B9&pos=96&rpt=simage&img_url=https%3A%2F%2Fimg3.goodfon.ru%2Foriginal%2F1920x1080%2Fe%2F8d%2Fjapan-wagashi-tarelka-sladosti.jpg&from=tabbar" alt="Фоточка Нэрикири4" width="115" height="77"> </p13>
   </body>
 </html>
-  <a href="photo<img src="files/preview-2.jpg" alt="Фоточка Кекса" width="115" height="77">
-   <img src="files/instructor-keks.jpg" alt="Фоточка Кекса"> 
+  <a href="photo<img src="files/preview-2.jpg" alt="Фоточка Кекса" width="115" height="88">
+   <img src="files/instructor-keks.jpg" alt="Фоточка "> 
 
