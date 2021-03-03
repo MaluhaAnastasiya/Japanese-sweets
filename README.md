@@ -96,5 +96,5 @@
   </body>
 </html>
   <a href="photo<img src="files/preview-2.jpg" alt="Фоточка Кекса" width="115" height="88">
-   <img src="files/instructor-keks.jpg" alt="Фоточка "> 
+   <img src="files/instructor-keks.jpg" alt="Фоточка ">
 
