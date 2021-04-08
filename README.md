@@ -34,7 +34,7 @@
            <img src="https://yandex.ru/images/search?p=1&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&pos=41&rpt=simage&img_url=https%3A%2F%2Fsun9-41.userapi.com%2Fc841529%2Fv841529885%2F2abee%2FA5YZDpXqsCs.jpg&from=tabbar" alt="Фоточка Тайяки2 " width="115" height="77">
            <img src="https://yandex.ru/images/search?p=1&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&pos=72&rpt=simage&img_url=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F105472953%2Fimage.jpg&from=tabbar" alt="Фоточка Тайяки3" width="115" height="77"> </p5>
         <h5>
-           Екан
+           Екан 
         </h5>
         <p6>
           Необычная пастила на основе сладкой пасты из бобов, морских водорослей и агар-агара. По консистенции десерт напоминает нечто среднее между пастилой и мармеладом. Обязательно попробуйте эти японские сладости: классические или с добавлением хурмы, батата, инжира, чая матча – вариантов немало. Екан можно привезти из Японии в коробочке: брусочки пастилы + круглые конфеты или что-то одно. На месте пробуйте в виде пирожных.
