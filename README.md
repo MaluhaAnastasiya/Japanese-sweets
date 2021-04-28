@@ -95,7 +95,9 @@
   </body>
   <footer>
   Малуха Анастасия 9Б
-  </footer>  
+  </footer>
+  <a href="#intro">Japanese sweets</a>
+  
 </html>
 
 
