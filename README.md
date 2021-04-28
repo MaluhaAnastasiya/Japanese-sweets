@@ -12,30 +12,30 @@
       </h2> 
         <p3>
           Очень нежный бисквит с португальскими корнями. В Японии его называют Касутера (Kasutera). Пирожное, покрытое характерной сахарной корочкой, имеет не совсем тот вкус, которого ждешь от бисквита. В составе этой японской сладости есть мед, пудра зеленого чая, особый сироп. Кастеллу легко увезти домой: ее, упакованную в узкие продолговатые коробочки, продают почти во всех супермаркетах.
-          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B01.jpeg" alt="Фоточка Кастелла1" width="115" height="77">
-          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="115" height="77"> </p3>
+          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B01.jpeg" alt="Фоточка Кастелла1" width="1156" height="760">
+          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="1156" height="760"> </p3>
         <h3>
         Сакура-моти 
         </h3>
         <p4>
 Во время цветения сакуры в Японии можно попробовать необычные сладости розового цвета. Именно в этот сезон их легко найти почти в каждом кафе. Впрочем, рецепт традиционный, так что при желании отыскать десерт в Японии можно будет в любое время. Сакура-моти – это рисовые колобки с начинкой бобовой пасты адзуки, завернутые в маринованные листья сакуры. Интересное сочетание сладкого с соленым, легкая острота маринада – очень необычно, но действительно вкусно. Домой можно купить листья сакуры в маринаде. Они продаются в полиэтиленовых упаковках. 
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%BC%D0%BE%D1%82%D0%B8.jpeg" alt="Фоточка Сакура-моти" width="115" height="77"> </p4>
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%BC%D0%BE%D1%82%D0%B8.jpeg" alt="Фоточка Сакура-моти" width="1156" height="760"> </p4>
         <h4>
           Тайяки 
         </h4>
         <p5>
           Обязательно попробуйте в Японии эту сладость и привезите пару коробочек для друзей. Знаменитое японское печенье в форме рыбок – один из главных традиционных десертов страны. В классическом варианте его готовят из пресного теста с начинкой из сладкой бобовой пасты адзуки. Для туристов есть варианты с шоколадом или заварным кремом. Однако сегодня все более популярны необычные японские сладости: тайяки со сладким сыром, овощной или рыбной лепешкой окономияки, мясной пастой или другими оригинальными начинками.
-         <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Тайяки1" width="115" height="77">
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Тайяки2 " width="115" height="77">
+         <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Тайяки1" width="1156" height="760">
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Тайяки2 " width="1156" height="760">
            </p5>
         <h5>
            Екан 
         </h5>
         <p6>
           Необычная пастила на основе сладкой пасты из бобов, морских водорослей и агар-агара. По консистенции десерт напоминает нечто среднее между пастилой и мармеладом. Обязательно попробуйте эти японские сладости: классические или с добавлением хурмы, батата, инжира, чая матча – вариантов немало. Екан можно привезти из Японии в коробочке: брусочки пастилы + круглые конфеты или что-то одно. На месте пробуйте в виде пирожных.
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD1.jpeg" alt="Фоточка Екан1 " width="115" height="77">
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD2.jpeg" alt="Фоточка Екан2 " width="115" height="77">
-               <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="115" height="77"> </p6>
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD1.jpeg" alt="Фоточка Екан1 " width="1156" height="760">
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD2.jpeg" alt="Фоточка Екан2 " width="1156" height="760">
+               <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="1156" height="760"> </p6>
         <h6>
         Моти
         </h6>
