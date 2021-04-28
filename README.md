@@ -38,7 +38,7 @@
           Необычная пастила на основе сладкой пасты из бобов, морских водорослей и агар-агара. По консистенции десерт напоминает нечто среднее между пастилой и мармеладом. Обязательно попробуйте эти японские сладости: классические или с добавлением хурмы, батата, инжира, чая матча – вариантов немало. Екан можно привезти из Японии в коробочке: брусочки пастилы + круглые конфеты или что-то одно. На месте пробуйте в виде пирожных.
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD1.jpeg" alt="Фоточка Екан1 " width="115" height="77">
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD2.jpeg" alt="Фоточка Екан2 " width="115" height="77">
-               <img src="" alt="Фоточка Екан3" width="115" height="77"> </p6>
+               <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="115" height="77"> </p6>
         <h6>
         Моти
         </h6>
