@@ -83,16 +83,16 @@
       Очень вкусные натуральные конфеты – национальная японская сладость с невообразимыми вкусами. Чаще всего внутри помещается орешек (обычно арахис или любой вид бобов), а оболочка состоит из мягкой бобовой пасты адзуки. Конфеты аманатто вымачивают в сахарном сиропе, получается что-то вроде сухофруктов с начинкой. Из вкусов популярны корица, фруктовые ароматы, шоколад, матча, водоросли, васаби. Последний вариант особенно интересен: он очень сладкий и одновременно очень острый. Купить эти японские сладости можно в фабричных упаковках или набрать ассорти на развес в супермаркете.
      <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%90%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D0%BE1.jpg" alt="Фоточка Аманатто1" width="115" height="77">
       <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B0%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D1%82%D0%BE2.jpg" alt="Фоточка Аманатто2" width="115" height="77"> </p12>
-      <h11>
+      <h12>
          Нэрикири
-      </h11>
+      </h12>
   <p13>
     У этих пирожных изысканный вкус, и они буквально тают во рту. По консистенции они мягче моти. Делают их из рисовой муки, фруктового джема, сладкой белой пасты Сиро-ан, сахара, патоки и пищевых красителей. В зависимости от сезона их делают разной формы – в виде цветов, фруктов, животных и т.д.
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B81.jpg" alt="Фоточка Нэрикири1 " width="115" height="77">
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B82.jpg" alt="Фоточка Нэрикири2 " width="115" height="77">
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B83.jpeg" alt="Фоточка Нэрикири3 " width="115" height="77">
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B84.jpg" alt="Фоточка Нэрикири4" width="115" height="77"> </p13>
-   <a href="#Japanese sweets2"></a>
+   <a href=""></a>
   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
   </body>
   <footer>
