@@ -74,7 +74,7 @@
     Это хрустящие рисовые крекеры, которые японцы привозят в подарок иностранцам, так как считают их беспроигрышным десертом. Вкусы бывают самыми разными: шоколад, орехи, кунжут, паста анко, а также краб, соевый соус, нори, васаби или что-то еще. Остро-соленый сэмбэй тоже считается в Японии десертом. Самый популярный вид этой сладости – с зеленым чаем матча. Домой можно привезти ассорти крекеров в большой коробке.
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B5%D0%BC%D0%B1%D1%8D%D0%B91.jpeg" alt="Фоточка Сембэй1" width="640" height="365"> 
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B5%D0%BC%D0%B1%D1%8D%D0%B92.jpg" alt="Фоточка Сембэй2" width="640" height="365">
-    <img src="" alt="Фоточка Сембэй3" width="640" height="365"> </p11>
+    <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B5%D0%BC%D0%B1%D1%8D%D0%B93.jpg" alt="Фоточка Сембэй3" width="640" height="365"> </p11>
     <h11>
        Аманатто
     </h11>
