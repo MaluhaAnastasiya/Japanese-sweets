@@ -89,7 +89,7 @@
   <p13>
     У этих пирожных изысканный вкус, и они буквально тают во рту. По консистенции они мягче моти. Делают их из рисовой муки, фруктового джема, сладкой белой пасты Сиро-ан, сахара, патоки и пищевых красителей. В зависимости от сезона их делают разной формы – в виде цветов, фруктов, животных и т.д.
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B81.jpg" alt="Фоточка Нэрикири1 " width="115" height="77">
-    <img src="" alt="Фоточка Нэрикири2 " width="115" height="77">
+    <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B82.jpg" alt="Фоточка Нэрикири2 " width="115" height="77">
     <img src="" alt="Фоточка Нэрикири3 " width="115" height="77">
     <img src="" alt="Фоточка Нэрикири4" width="115" height="77"> </p13>
    <a href="#Japanese sweets2"></a>
