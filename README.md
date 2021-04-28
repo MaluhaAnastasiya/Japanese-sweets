@@ -34,7 +34,7 @@
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BC%D0%BE%D1%82%D0%B83.jpeg" alt="Фоточка Моти3 " width="640" height="365"> 
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%BA%D0%B0%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Данго1 " width="640" height="365">
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%82%D0%B0%D0%BA%D0%B0%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Данго2 " width="640" height="365"> </p6>
-https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/Japanese-sweets-main.zip
+https://github.com/MaluhaAnastasiya/Japanese-sweets2
   </body>
   <footer>
   Малуха Анастасия 9Б
