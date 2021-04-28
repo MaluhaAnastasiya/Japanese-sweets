@@ -28,8 +28,8 @@
         </h4>
         <p5>
           Обязательно попробуйте в Японии эту сладость и привезите пару коробочек для друзей. Знаменитое японское печенье в форме рыбок – один из главных традиционных десертов страны. В классическом варианте его готовят из пресного теста с начинкой из сладкой бобовой пасты адзуки. Для туристов есть варианты с шоколадом или заварным кремом. Однако сегодня все более популярны необычные японские сладости: тайяки со сладким сыром, овощной или рыбной лепешкой окономияки, мясной пастой или другими оригинальными начинками.
-           <img src="https://yandex.ru/images/search?pos=36&from=tabbar&img_url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Fr-oHs-WOldRAZD2urwJXUNEEhOo%3D%2F0x0%3A1280x853%2F1200x0%2Ffilters%3Afocal%280x0%3A1280x853%29%3Ano_upscale%28%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F9230381%2Featersea0917_matcha_man_courtesy_of_don_gacilo.JPG&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&rpt=simage" alt="Фоточка Тайяки1" width="115" height="77">
-           <img src="https://yandex.ru/images/search?p=1&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&pos=41&rpt=simage&img_url=https%3A%2F%2Fsun9-41.userapi.com%2Fc841529%2Fv841529885%2F2abee%2FA5YZDpXqsCs.jpg&from=tabbar" alt="Фоточка Тайяки2 " width="115" height="77">
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Тайяки1" width="115" height="77">
+           <img src="" alt="Фоточка Тайяки2 " width="115" height="77">
            <img src="https://yandex.ru/images/search?p=1&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&pos=72&rpt=simage&img_url=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F105472953%2Fimage.jpg&from=tabbar" alt="Фоточка Тайяки3" width="115" height="77"> </p5>
         <h5>
            Екан 
