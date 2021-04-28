@@ -27,7 +27,7 @@
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD1.jpeg" alt="Фоточка Екан1 " width="640" height="365">
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD2.jpeg" alt="Фоточка Екан2 " width="640" height="365">
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="640" height="365"> </p6>
-  <h6>Моти</h6>
+# Моти
         <p7>
           Строго говоря, это не совсем десерт. Моти в Японии – особое рисовое тесто, на основе которого готовят немало национальных блюд. В том числе и сладости. Под словом «моти» мы подразумеваем целую группу десертов, которые стоит попробовать в Японии. Среди них мягкие паровые булочки со сладкой начинкой, внешне напоминающие цветные хинкали, а также мороженое-моти с самыми разными вкусами, данго – шарики на шпажках в сиропе. Домой привезите оригинальные конфеты моти – мягкие, цветные, с необычными вкусами.
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BC%D0%BE%D1%82%D0%B81.jpeg" alt="Фоточка Моти1 " width="640" height="365">
