@@ -54,8 +54,8 @@ https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%BA
         </h7>
         <p8>
        Эти национальные сладости в Японии нужно попробовать обязательно. Мандзю – запеченный пирожок или кекс из сладкой муки (рисовой, гречишной или пшеничной). Начинка может быть какой угодно: шоколад, крем, паста бобов адзуки, фруктовый джем, сладкий сыр или что-то еще. Самая популярная сладость в этой категории – мандзю-маття зеленого цвета (с добавлением чая матча). В Хиросиме десерт традиционно пекут в форме кленового листа, его трудно найти где-то еще. Если решите купить в Японии набор мандзю в качестве гостинца близким, везите его в ручной клади.
-           <img src="https://yandex.ru/images/search?family=yes&pos=5&from=tabbar&img_url=https%3A%2F%2Fsun9-23.userapi.com%2Fc857024%2Fv857024409%2F128e5e%2FZ2gEuYdLN3o.jpg&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D0%BC%D0%B0%D0%BD%D0%B4%D0%B7%D1%8E&rpt=simage" alt="Фоточка  Мандзю1" width="115" height="77">
-           <img src="https://yandex.ru/images/search?family=yes&pos=16&from=tabbar&img_url=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FESm_Mg4U0AAyWcm.jpg&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D0%BC%D0%B0%D0%BD%D0%B4%D0%B7%D1%8E&rpt=simage" alt="Фоточка Мандзю2 " width="115" height="77"> 
+           <img src="" alt="Фоточка  Мандзю1" width="115" height="77">
+           <img src="" alt="Фоточка Мандзю2 " width="115" height="77"> 
   </p8>
   <h8>
      Дораяки
