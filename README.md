@@ -3,39 +3,38 @@
   <h1>Топ-11 сладостей из Японии: что попробовать туристу</h1>
   </header>
   <body>  
-        <p1>Японские сладости или «вагаси» – это не просто вкусные десерты, а целое искусство. Расскажем о самых интересных из них. Японцы не боятся экспериментов, а потому готовят нестандартные сладости с оригинальными вкусами. А главное – делают это очень красиво. Мы составили топ-10 национальных десертов, которые однозначно стоит попробовать в Японии. Фото и краткие описания помогут вам не растеряться на «сладком шоппинге».</p1>
-        <p2>
-          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B81.jpeg" alt="Японские сладости" width="640" height="365"> </p2>
+        <p1>Японские сладости или «вагаси» – это не просто вкусные десерты, а целое искусство. Расскажем о самых интересных из них. Японцы не боятся экспериментов, а потому готовят нестандартные сладости с оригинальными вкусами. А главное – делают это очень красиво. Мы составили топ-10 национальных десертов, которые однозначно стоит попробовать в Японии. Фото и краткие описания помогут вам не растеряться на «сладком шоппинге».
+          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B81.jpeg" alt="Японские сладости" width="640" height="365"></p1> 
   <h2>Кастелла</h2> 
-        <p3>
+        <p2>
           Очень нежный бисквит с португальскими корнями. В Японии его называют Касутера (Kasutera). Пирожное, покрытое характерной сахарной корочкой, имеет не совсем тот вкус, которого ждешь от бисквита. В составе этой японской сладости есть мед, пудра зеленого чая, особый сироп. Кастеллу легко увезти домой: ее, упакованную в узкие продолговатые коробочки, продают почти во всех супермаркетах.
           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B01.jpeg" alt="Фоточка Кастелла1" width="640" height="365">
-          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="640" height="365"> </p3>
+          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B02.gif" alt="Фоточка Кастелла2" width="640" height="365"> </p2>
   <h3>Сакура-моти</h3>
-        <p4>
+        <p3>
 Во время цветения сакуры в Японии можно попробовать необычные сладости розового цвета. Именно в этот сезон их легко найти почти в каждом кафе. Впрочем, рецепт традиционный, так что при желании отыскать десерт в Японии можно будет в любое время. Сакура-моти – это рисовые колобки с начинкой бобовой пасты адзуки, завернутые в маринованные листья сакуры. Интересное сочетание сладкого с соленым, легкая острота маринада – очень необычно, но действительно вкусно. Домой можно купить листья сакуры в маринаде. Они продаются в полиэтиленовых упаковках. 
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%BC%D0%BE%D1%82%D0%B8.jpeg" alt="Фоточка Сакура-моти" width="640" height="365"> </p4>
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%81%D0%B0%D0%BA%D1%83%D1%80%D0%B0%20%D0%BC%D0%BE%D1%82%D0%B8.jpeg" alt="Фоточка Сакура-моти" width="640" height="365"> </p3>
   <h4>Тайяки</h4>
-        <p5>
+        <p4>
           Обязательно попробуйте в Японии эту сладость и привезите пару коробочек для друзей. Знаменитое японское печенье в форме рыбок – один из главных традиционных десертов страны. В классическом варианте его готовят из пресного теста с начинкой из сладкой бобовой пасты адзуки. Для туристов есть варианты с шоколадом или заварным кремом. Однако сегодня все более популярны необычные японские сладости: тайяки со сладким сыром, овощной или рыбной лепешкой окономияки, мясной пастой или другими оригинальными начинками.
          <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Тайяки1" width="640" height="365">
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Тайяки2 " width="640" height="365">
-           </p5>
+           </p4>
   <h5>Ёкан</h5>
-        <p6>
+        <p5>
           Необычная пастила на основе сладкой пасты из бобов, морских водорослей и агар-агара. По консистенции десерт напоминает нечто среднее между пастилой и мармеладом. Обязательно попробуйте эти японские сладости: классические или с добавлением хурмы, батата, инжира, чая матча – вариантов немало. Екан можно привезти из Японии в коробочке: брусочки пастилы + круглые конфеты или что-то одно. На месте пробуйте в виде пирожных.
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD1.jpeg" alt="Фоточка Екан1 " width="640" height="365">
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD2.jpeg" alt="Фоточка Екан2 " width="640" height="365">
-               <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="640" height="365"> </p6>
+               <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%B5%D0%BA%D0%B0%D0%BD3.jpeg" alt="Фоточка Екан3" width="640" height="365"> </p5>
   <h6>Моти</h6>
-        <p7>
+        <p6>
           Строго говоря, это не совсем десерт. Моти в Японии – особое рисовое тесто, на основе которого готовят немало национальных блюд. В том числе и сладости. Под словом «моти» мы подразумеваем целую группу десертов, которые стоит попробовать в Японии. Среди них мягкие паровые булочки со сладкой начинкой, внешне напоминающие цветные хинкали, а также мороженое-моти с самыми разными вкусами, данго – шарики на шпажках в сиропе. Домой привезите оригинальные конфеты моти – мягкие, цветные, с необычными вкусами.
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BC%D0%BE%D1%82%D0%B81.jpeg" alt="Фоточка Моти1 " width="640" height="365">
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BC%D0%BE%D1%82%D0%B82.jpeg" alt="Фоточка Моти2 " width="640" height="365">
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BC%D0%BE%D1%82%D0%B83.jpeg" alt="Фоточка Моти3 " width="640" height="365"> 
                <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%BA%D0%B0%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Данго1 " width="640" height="365">
-           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%82%D0%B0%D0%BA%D0%B0%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Данго2 " width="640" height="365"> </p7>
-   <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/Japanese-sweets-main.zip" alt="Японские сладости2" width="115" height="77"> </p13>
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D1%82%D0%B0%D0%BA%D0%B0%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Данго2 " width="640" height="365"> </p6>
+https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/Japanese-sweets-main.zip
   </body>
   <footer>
   Малуха Анастасия 9Б
