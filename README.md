@@ -29,7 +29,7 @@
         <p5>
           Обязательно попробуйте в Японии эту сладость и привезите пару коробочек для друзей. Знаменитое японское печенье в форме рыбок – один из главных традиционных десертов страны. В классическом варианте его готовят из пресного теста с начинкой из сладкой бобовой пасты адзуки. Для туристов есть варианты с шоколадом или заварным кремом. Однако сегодня все более популярны необычные японские сладости: тайяки со сладким сыром, овощной или рыбной лепешкой окономияки, мясной пастой или другими оригинальными начинками.
            <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B81.jpeg" alt="Фоточка Тайяки1" width="115" height="77">
-           <img src="" alt="Фоточка Тайяки2 " width="115" height="77">
+           <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%A2%D0%B0%D0%B9%D1%8F%D0%BA%D0%B82.jpeg" alt="Фоточка Тайяки2 " width="115" height="77">
            <img src="https://yandex.ru/images/search?p=1&text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D1%81%D0%BB%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8+%D1%82%D0%B0%D0%B9%D1%8F%D0%BA%D0%B8&pos=72&rpt=simage&img_url=https%3A%2F%2Fmedia.timeout.com%2Fimages%2F105472953%2Fimage.jpg&from=tabbar" alt="Фоточка Тайяки3" width="115" height="77"> </p5>
         <h5>
            Екан 
