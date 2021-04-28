@@ -94,6 +94,7 @@
     <img src="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/%D0%BD%D0%B5%D1%80%D0%B8%D0%BA%D0%B8%D1%80%D0%B84.jpg" alt="Фоточка Нэрикири4" width="115" height="77"> </p13>
    <a href="https://<MaluhaAnastasiya>.github.io/<Japanese sweets>/about.html" title="Japanese sweets2">Japanese sweets2</a> 
   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+   <img src="" alt="" width="115" height="77"> 
   </body>
   <footer>
   Малуха Анастасия 9Б
