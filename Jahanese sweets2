@@ -1,9 +1,15 @@
 #Japanese sweets 
+<head>
 <header> Привет </header>
+</head>
 <body>
+<main>
+<nav>
 <lu>
 <li><a href="README.md>Japanese sweets</a></li>
 </lu>
+</nav>
+</main>
 </body>
 htlm
 
