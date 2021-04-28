@@ -92,11 +92,12 @@
     <img src="" alt="Фоточка Нэрикири2 " width="115" height="77">
     <img src="" alt="Фоточка Нэрикири3 " width="115" height="77">
     <img src="" alt="Фоточка Нэрикири4" width="115" height="77"> </p13>
+   <a href="#Japanese sweets2"></a>
   </body>
   <footer>
   Малуха Анастасия 9Б
   </footer>
-  <a href="#Japanese sweets2"></a>
+
   
 </html>
 
