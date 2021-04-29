@@ -1,5 +1,5 @@
 # Японские сладости
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://github.com/MaluhaAnastasiya/Japanese-sweets/blob/main/style.css">
 <header>
   <h1>Топ-11 сладостей из Японии: что попробовать туристу</h1>
   </header>
